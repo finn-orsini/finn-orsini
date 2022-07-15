@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋
+
+Hi there! My name is Seraphina. I have many nicknames<sup>1</sup>, feel free to call me whatever comes to mind (anything but `Sera`). My pronouns are she/her/they/them.
+
+I am a Software Engineer based in Boston, currently working for [Wayfair](https://www.aboutwayfair.com/careers). 
+
+
 
 <!--
 **finn-orsini/finn-orsini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#
+
+`1`: Finn, Feeny, Phina, Raphie, Seraphini, Aquafina, Scareaphina, Swearaphina, Darkness, Shapes...
