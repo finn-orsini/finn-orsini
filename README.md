@@ -19,7 +19,7 @@ I am a Software Engineer based in Boston, currently working for [Wayfair](https:
 
 **Side Projects:** I love my engineering job, and I work hard to balance it with the rest of my life. I prefer to spend my free time on other interests. 
 
-**Being A Woman in Tech:** Sometimes it's great, sometimes it's not so great. My gender does not define me or my work.
+**Being A Woman in Tech:** Sometimes it's great, sometimes it's not so great. 
 
 
 
