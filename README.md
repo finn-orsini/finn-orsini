@@ -2,7 +2,7 @@
 
 Hi there! My name is Seraphina. I have many nicknames<sup>1</sup>, feel free to call me whatever comes to mind (anything but `Sera`). My pronouns are she/her/they/them.
 
-I am a Software Engineer based in Boston, currently working for [Wayfair](https://www.aboutwayfair.com/careers). 
+I am a Software Engineer based in Boston, currently working on Frontend Platforms at [Wayfair](https://www.aboutwayfair.com/careers). 
 
 
 ### 💬 Ask me about
