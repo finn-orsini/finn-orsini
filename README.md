@@ -2,7 +2,7 @@
 
 Hi there! My name is Seraphina. I have many nicknames<sup>1</sup>, feel free to call me whatever comes to mind (anything but `Sera`). My pronouns are she/her/they/them.
 
-I am a Software Engineer based in Boston, currently working on Frontend Platforms at [Wayfair](https://www.aboutwayfair.com/careers). 
+I am a Software Engineer based in Boston, currently working on [Atlas by Hunt Club](https://www.exploreatlas.io/), formerly on Frontend Platforms at [Wayfair](https://www.aboutwayfair.com/careers). 
 
 
 ### 💬 Ask me about
@@ -21,22 +21,6 @@ I am a Software Engineer based in Boston, currently working on Frontend Platform
 
 **Being A Woman in Tech:** Sometimes it's great, sometimes it's not so great. 
 
-
-
-<!--
-**finn-orsini/finn-orsini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 #
 
