@@ -12,8 +12,6 @@ I am a Software Engineer based in Boston, currently working on [Atlas by Hunt Cl
 
 **Abstract Syntax Trees:** [AST Explorer](https://astexplorer.net/) is one of my favorite things on the internet. 
 
-**My Dog:** His name is Huck and he loves long walks on the beach.
-
 
 ### 🚫 Don't ask me about 
 
