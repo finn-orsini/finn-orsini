@@ -10,7 +10,7 @@ I am a Software Engineer based in Boston, currently working on [Atlas by Hunt Cl
 
 **Dependency Health:** Check out [deptrics](https://github.com/finn-orsini/deptrics)! 
 
-**Abstract Syntax Trees:** [AST Explorer](https://astexplorer.net/) is one of my favorite things on the internet. 
+**Abstract Syntax Trees:** [AST Explorer](https://astexplorer.net/) is one of my favorite things. 
 
 
 ### 🚫 Don't ask me about 
